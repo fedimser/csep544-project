@@ -1,0 +1,6 @@
+*.zip
+*.sh
+*.key
+*.pem
+experiments/data
+*.ipynb_checkpoints
